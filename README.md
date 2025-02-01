@@ -6,4 +6,6 @@ Team Member:
 
 - Cong Minh Le
 - Levon Kahdejian
-- Tony Barrack
+- Tony Barrak
+
+*First commit by Tony
